@@ -1,0 +1,23 @@
+# Prajwal Suryawanshi
+
+## Summary
+Data Science and Backend Developer building technology that transforms complexity into simplicity.
+
+## Website
+https://prajwalsuryawanshi.in/
+
+## Contact
+Email: prajwal221104@gmail.com
+
+## Social
+LinkedIn: https://www.linkedin.com/in/prajwalsuryawanshi
+GitHub: https://github.com/prajwalsuryawanshi
+Kaggle: https://kaggle.com/prajwalhere
+Instagram: https://instagram.com/prjwl._
+HackerRank: https://www.hackerrank.com/prajwal221104
+LeetCode: https://leetcode.com/u/pajwalcantcode
+
+## Projects
+MarkMyMeet: https://markmymeet.com/
+Dineme.in: http://dineme.in
+QuizMaster: https://quiz-master-dszj.onrender.com/
