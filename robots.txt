@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prajwalsuryawanshi.github.io/prajwalsuryawanshi/sitemap.xml
+Sitemap: https://prajwalsuryawanshi.in/sitemap.xml
 
