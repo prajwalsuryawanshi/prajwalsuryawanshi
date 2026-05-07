@@ -109,6 +109,37 @@ li {
   margin-bottom: 22px;
 }
 
+.agentapi-highlight {
+  color: #137d3e;
+}
+
+.agentapi-card {
+  border: 1px solid #2ca35f;
+  border-left: 5px solid #2ca35f;
+  border-radius: 10px;
+  padding: 12px 14px;
+  background: #f3fff8;
+}
+
+.agentapi-card .title-row,
+.agentapi-card .title-row a,
+.agentapi-card strong,
+.agentapi-card .icon {
+  color: #137d3e;
+}
+
+.agentapi-card .aux-links a {
+  color: #0f6a34;
+  font-weight: 600;
+}
+
+.agentapi-logo {
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
 strong {
   font-weight: 700;
 }
