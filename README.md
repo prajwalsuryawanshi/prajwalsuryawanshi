@@ -15,7 +15,7 @@ I build technology that transforms complexity into simplicity at scale.
 - LinkedIn: [linkedin.com/in/prajwalsuryawanshi](https://linkedin.com/in/prajwalsuryawanshi)
 - GitHub: [github.com/prajwalsuryawanshi](https://github.com/prajwalsuryawanshi)
 - Kaggle: [kaggle.com/prajwalhere](https://kaggle.com/prajwalhere)
-- Instagram: [instagram.com/prjwl._](https://instagram.com/prajwalsuryawanshii)
+- Instagram: [instagram.com/prajwalsuryawanshii](https://instagram.com/prajwalsuryawanshii)
 - HackerRank: [hackerrank.com/prajwal221104](https://www.hackerrank.com/prajwal221104)
 
 ## Focus
